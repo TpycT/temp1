@@ -14,3 +14,4 @@ foreach (var value in M )
 }
 Console.WriteLine(string.Join(Environment.NewLine, result, 0, realSize));
 Console.ReadKey(true);
+break;
